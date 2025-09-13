@@ -1,0 +1,1 @@
+This project explores the relationship between individual borrower characteristics, loan terms, and macroeconomic conditions to predict the likelihood of loan default. The objective is to assess credit risk using logistic regression and interpret key factors influencing defaults.
